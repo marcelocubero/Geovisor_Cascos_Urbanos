@@ -1,0 +1,13 @@
+name: Geovisor_Cascos_Urbanos
+title: Geovisor_Cascos_Urbanos
+username:
+account: icnlkt-marcelocubero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9129324
+bundleId: 7229689
+url: https://marcelo-cubero.shinyapps.io/Geovisor_Cascos_Urbanos/
+when: 1684335904.78141
+lastSyncTime: 1684335904.78141
+asMultiple: FALSE
+asStatic: FALSE
