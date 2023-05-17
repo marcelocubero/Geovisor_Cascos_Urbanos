@@ -259,8 +259,8 @@ renderLeaflet({
   registros <-
     filtrarRegistros()
   
-  mep_c <- mep [registros, , op = st_within]
-  localidades_c <- localidades [registros, , op = st_within]
+   mep_c <- mep [registros, , op = st_intersects]
+   localidades_c <- localidades [registros, , op = st_intersects]
 
   
   leaflet() %>%
